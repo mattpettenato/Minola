@@ -1,2 +1,3 @@
 # Minola-the-Shinola-Clone
-clone of https://www.shinola.com/
+
+Minola is a full-stack, React/Redux clone of the online shopping site [Shinola](https://www.shinola.com/)
